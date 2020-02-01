@@ -16,15 +16,15 @@ channel     ID of Slack channel to upload files
 
 ### Important
 
-Run modelwatch.py in the background or else the thread may get blocked. 
+Run modelwatch.py in the background or else the thread may get blocked and you won't receive the updates at the expected interval.
 
 On Windows:
 
-  start python <interval> <folder> <token> <channel>
+    start python {interval} {folder} {token} {channel}
 
 On macOS/Linux:
 
-  python <interval> <folder> <token> <channel> &
+    python {interval} {folder} {token} {channel} &
   
 
   
