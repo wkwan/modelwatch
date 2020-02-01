@@ -1,4 +1,4 @@
-# modelwatch
+# ModelWatch
 
 ModelWatch sends model training progress updates to your Slack channel. No SDK required, the script simply checks a folder that you pass in at your desired notification interval and uploads the newest file in that folder to Slack.
 
