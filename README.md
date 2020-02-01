@@ -8,12 +8,11 @@ After installation, an Oauth token will be posted to your Slack channel, which y
 
 Then install requirements and run the modelwatch.py script while training your model.
 
-**modelwatch.py positional arguments:** . 
-interval: notification interval in minutes . 
-folder: path to folder with preview files . 
-token: Slack access token . 
-channel: ID of Slack channel to upload files . 
-
+**modelwatch.py positional arguments:**  
+interval: notification interval in minutes     
+folder: path to folder with preview files  
+token: Slack access token  
+channel: ID of Slack channel to upload files   
 
 ### Important
 
